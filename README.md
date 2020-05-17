@@ -9,3 +9,7 @@
   - 3.cd ProxyPicker 
   - 4.php proxypicker.php
   - Done
+
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
